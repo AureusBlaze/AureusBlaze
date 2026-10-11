@@ -204,12 +204,12 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" width="467" height="195" alt="AureusBlaze GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureusBlaze&layout=compact&title_color=D80027&text_color=E2E8F0&bg_color=0B0C10&border_color=B30006&hide_border=false" width="355" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" width="395" height="165" alt="AureusBlaze GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureusBlaze&layout=compact&title_color=D80027&text_color=E2E8F0&bg_color=0B0C10&border_color=B30006&hide_border=false" width="300" height="165" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=AureusBlaze&theme=dark&background=0B0C10&border=B30006&stroke=D80027&ring=D80027&fire=D80027&currStreakLabel=D80027" width="495" height="195" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AureusBlaze&theme=dark&background=0B0C10&border=B30006&stroke=D80027&ring=D80027&fire=D80027&currStreakLabel=D80027" width="420" height="165" alt="GitHub Streak" />
   </p>
 
 </div>
