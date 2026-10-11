@@ -160,7 +160,30 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 01 ]</b> &nbsp; <strong>WORKSHOP INSTRUCTOR: GRAPHIC DESIGN</strong><br/>
+  <b>◆ [ CONTRACT 01 ]</b> &nbsp; <strong>LECTURER: UI/UX &amp; WEB DESIGN</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Al-Ghad International College</em> &nbsp;•&nbsp; <code>Jun 2026 – Present</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+<br/>
+<p>
+  <strong>Institution:</strong> Al-Ghad International College<br/>
+  <strong>Role &amp; Duration:</strong> Lecturer: UI/UX &amp; Web Design (Jun 2026 – Present)<br/>
+  <strong>Department:</strong> Graphic Design Department (2nd &amp; 4th Year Cohorts)<br/>
+  <strong>Discipline:</strong> Digital Product Design, Web UX Architecture &amp; Visual Hierarchy<br/>
+  <strong>Tools &amp; Weapons:</strong> Figma, Design Systems, Responsive Layouts, Heuristics
+</p>
+<p><strong>Mission Scope &amp; Deliverables:</strong></p>
+<ul>
+  <li>Instructing 2nd- and 4th-year Graphic Design undergraduate cohorts in Web Design architecture, user experience fundamentals, and interactive prototyping utilizing Figma.</li>
+  <li>Teaching core design concepts, visual hierarchy principles, layout balance, and practical techniques for directing user attention across digital interfaces.</li>
+</ul>
+</details>
+</td>
+</tr>
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 02 ]</b> &nbsp; <strong>WORKSHOP INSTRUCTOR: GRAPHIC DESIGN</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Saba University</em> &nbsp;•&nbsp; <code>May 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 <br/>
@@ -183,7 +206,7 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 02 ]</b> &nbsp; <strong>GAME DEV INSTRUCTOR &amp; TECHNICAL SUPERVISOR</strong><br/>
+  <b>◆ [ CONTRACT 03 ]</b> &nbsp; <strong>GAME DEV INSTRUCTOR &amp; TECHNICAL SUPERVISOR</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Leapat (Hadhramout Foundation)</em> &nbsp;•&nbsp; <code>Jan 2026 – Mar 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 <br/>
@@ -206,7 +229,7 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 03 ]</b> &nbsp; <strong>LEAD 3D ARTIST</strong><br/>
+  <b>◆ [ CONTRACT 04 ]</b> &nbsp; <strong>LEAD 3D ARTIST</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Nerdmagic Studios</em> &nbsp;•&nbsp; <code>Aug 2025 – Jan 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 <br/>
@@ -229,7 +252,7 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 04 ]</b> &nbsp; <strong>UNIVERSITY LECTURER: GAME DESIGN</strong><br/>
+  <b>◆ [ CONTRACT 05 ]</b> &nbsp; <strong>UNIVERSITY LECTURER: GAME DESIGN</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Knowledge &amp; Modern Sciences University</em> &nbsp;•&nbsp; <code>2024 – 2025</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 <br/>
@@ -254,7 +277,7 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 05 ]</b> &nbsp; <strong>ASSISTANT LECTURER: GAME DEV &amp; 3D MODELING</strong><br/>
+  <b>◆ [ CONTRACT 06 ]</b> &nbsp; <strong>ASSISTANT LECTURER: GAME DEV &amp; 3D MODELING</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Twintech University</em> &nbsp;•&nbsp; <code>Dec 2023 – Jan 2025</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 <br/>
