@@ -23,13 +23,13 @@
   <rect x="2" y="2" width="846" height="46" rx="8" fill="url(#glassBg)" stroke="url(#glassBorder)" stroke-width="1.2" />
   <path d="M 10 3 L 840 3" stroke="url(#topHighlight)" stroke-width="1.2" stroke-linecap="round" />
   <!-- Corner Brackets -->
-  <path d="M 6 14 L 6 6 L 14 6" fill="none" stroke="#D80027" stroke-width="2" />
-  <path d="M 844 14 L 844 6 L 836 6" fill="none" stroke="#D80027" stroke-width="2" />
-  <path d="M 6 36 L 6 44 L 14 44" fill="none" stroke="#D80027" stroke-width="2" />
-  <path d="M 844 36 L 844 44 L 836 44" fill="none" stroke="#D80027" stroke-width="2" />
+  <path d="M 11 18 L 11 10 L 19 10" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 839 18 L 839 10 L 831 10" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 11 32 L 11 40 L 19 40" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 839 32 L 839 40 L 831 40" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
   <!-- Vector Diamond HUD Marker -->
-  <polygon points="26,18 33,25 26,32 19,25" fill="#D80027" />
-  <polygon points="26,20 31,25 26,30 21,25" fill="#FFFFFF" fill-opacity="0.6" />
-  <text x="44" y="31" class="header-title">WEAPONS ARSENAL // TECH STACK</text>
-  <text x="825" y="30" text-anchor="end" class="hud-tag">// SPEC: WEAPON_LOADOUT</text>
+  <polygon points="29,18 36,25 29,32 22,25" fill="#D80027" />
+  <polygon points="29,20 34,25 29,30 24,25" fill="#FFFFFF" fill-opacity="0.6" />
+  <text x="48" y="31" class="header-title">WEAPONS ARSENAL // TECH STACK</text>
+  <text x="820" y="30" text-anchor="end" class="hud-tag">// SPEC: WEAPON_LOADOUT</text>
 </svg>
