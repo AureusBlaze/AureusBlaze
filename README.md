@@ -57,111 +57,57 @@
 </tr>
 <tr>
 <td>
-<details>
-<summary>
+<p>
   <b>◆ [ SPEC 01 ]</b> &nbsp; <strong>SOFTWARE ENGINEER // CROSS-PLATFORM</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Flutter &amp; Dart</em> &nbsp;•&nbsp; Mobile &amp; Desktop Architecture &nbsp;•&nbsp; <kbd>MISSION INTEL ▼</kbd>
-</summary>
-<br/>
-<p>
-  <strong>Primary Discipline:</strong> Software Engineering &amp; Reactive Application Architecture<br/>
-  <strong>Core Framework:</strong> Flutter &amp; Dart (Cross-Platform Mobile &amp; Desktop)<br/>
-  <strong>Focus Areas:</strong> Reactive State Management, Modular Architecture, Clean Code
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Flutter &amp; Dart</em> &nbsp;•&nbsp; <code>Mobile &amp; Desktop Architecture</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<p><strong>Operational Profile:</strong></p>
-<ul>
-  <li>Engineering clean, modular, and reactive cross-platform applications across mobile and desktop platforms utilizing Flutter and Dart.</li>
-  <li>Applying clean architectural principles, decoupled business logic, and reactive state management for maintainable codebases.</li>
-  <li>Designing intuitive user journeys with 60fps fluid UI animations and robust API integrations.</li>
-</ul>
-</details>
+<p>
+  Engineering clean, modular, and reactive cross-platform applications across mobile and desktop platforms utilizing <strong>Flutter &amp; Dart</strong>. Focused on clean architecture, reactive state management, decoupled business logic, and fluid 60fps UI performance.
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<details>
-<summary>
+<p>
   <b>◆ [ SPEC 02 ]</b> &nbsp; <strong>HARD-SURFACE 3D ARTIST // GAME-READY</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Blender &amp; Substance Painter</em> &nbsp;•&nbsp; PBR Textures &amp; UVs &nbsp;•&nbsp; <kbd>MISSION INTEL ▼</kbd>
-</summary>
-<br/>
-<p>
-  <strong>Primary Discipline:</strong> Hard-Surface 3D Modeling &amp; PBR Texturing<br/>
-  <strong>Primary Arsenal:</strong> Blender, Adobe Substance 3D Painter<br/>
-  <strong>Focus Areas:</strong> Game-Ready Assets, Low-Poly Topology, UV Packing &amp; Baking
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Blender &amp; Substance Painter</em> &nbsp;•&nbsp; <code>PBR Textures &amp; UVs</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<p><strong>Operational Profile:</strong></p>
-<ul>
-  <li>Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in Blender.</li>
-  <li>Authoring realistic, weathered PBR texture sets (Metallic/Roughness) in Adobe Substance 3D Painter with clean baking and maximum texel density.</li>
-  <li>Strictly focused on hard-surface modeling and prop pipelines for real-time game engines.</li>
-</ul>
-</details>
+<p>
+  Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in <strong>Blender</strong>. Authoring realistic, weathered PBR texture sets in <strong>Adobe Substance 3D Painter</strong> with clean baking and maximum texel density.
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<details>
-<summary>
+<p>
   <b>◆ [ SPEC 03 ]</b> &nbsp; <strong>GAME DEVELOPER // REAL-TIME SYSTEMS</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Unity &amp; Godot</em> &nbsp;•&nbsp; Mechanics &amp; Physics Controllers &nbsp;•&nbsp; <kbd>MISSION INTEL ▼</kbd>
-</summary>
-<br/>
-<p>
-  <strong>Primary Discipline:</strong> Real-Time Gameplay Programming &amp; Prototyping<br/>
-  <strong>Engines &amp; Languages:</strong> Unity Engine (C#), Godot Engine (C# &amp; GDScript)<br/>
-  <strong>Focus Areas:</strong> Character Controllers, State Machines, Physics Scripting
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Unity &amp; Godot</em> &nbsp;•&nbsp; <code>Mechanics &amp; Physics Controllers</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<p><strong>Operational Profile:</strong></p>
-<ul>
-  <li>Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in Unity and Godot.</li>
-  <li>Structuring modular game architectures utilizing finite state machines (FSM), decoupled event systems, and component-based design.</li>
-  <li>Profiling runtime performance, draw call budgets, collision matrices, and frame pacing.</li>
-</ul>
-</details>
+<p>
+  Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in <strong>Unity</strong> and <strong>Godot</strong>. Focused on responsive controls, component architecture, and engine profiling.
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<details>
-<summary>
+<p>
   <b>◆ [ SPEC 04 ]</b> &nbsp; <strong>UI/UX LECTURER // PRODUCT DESIGN</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Figma &amp; Design Systems</em> &nbsp;•&nbsp; Heuristics &amp; Mentorship &nbsp;•&nbsp; <kbd>MISSION INTEL ▼</kbd>
-</summary>
-<br/>
-<p>
-  <strong>Primary Discipline:</strong> Design Systems, Interaction Design &amp; Education<br/>
-  <strong>Primary Arsenal:</strong> Figma, Interactive Prototypes, Design Tokens<br/>
-  <strong>Focus Areas:</strong> Human-Centered Design Heuristics, User Attention Directing
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Figma &amp; Design Systems</em> &nbsp;•&nbsp; <code>Heuristics &amp; Mentorship</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<p><strong>Operational Profile:</strong></p>
-<ul>
-  <li>Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in Figma.</li>
-  <li>Educating graphic design cohorts in visual hierarchy, spacing tokens, and atomic design system structuring.</li>
-  <li>Mentoring aspiring designers through real-world design critiques, usability audits, and iterative prototype testing.</li>
-</ul>
-</details>
+<p>
+  Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in <strong>Figma</strong>. Mentoring aspiring designers and multimedia students through practical workflows, visual hierarchy principles, and iterative prototype testing.
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<details>
-<summary>
-  <b>◆ [ HUNTER CODE ]</b> &nbsp; <strong>COMBAT PHILOSOPHY // STYLE RANK</strong><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<em>Smokin' Sexy Style</em> &nbsp;•&nbsp; Clean Topology &amp; Clean Code &nbsp;•&nbsp; <kbd>MISSION INTEL ▼</kbd>
-</summary>
-<br/>
 <p>
-  <strong>Hunter Code:</strong> The Dante / AureusBlaze Execution Standard<br/>
-  <strong>Guiding Rule:</strong> Smokin' Sexy Style (SSS) Execution Across All Disciplines
+  <b>◆ [ HUNTER CODE ]</b> &nbsp; <strong>COMBAT PHILOSOPHY // STYLE RANK</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Smokin' Sexy Style</em> &nbsp;•&nbsp; <code>Clean Topology &amp; Clean Code</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<p><strong>Operational Profile:</strong></p>
-<ul>
-  <li><strong>Clean Topology in 3D:</strong> Zero non-manifold geometry, clean quads, efficient triangles, and razor-sharp silhouette reads.</li>
-  <li><strong>Clean Architecture in Code:</strong> Modular, readable, self-documenting codebases built for extensibility and zero technical debt.</li>
-  <li><strong>Flawless Execution:</strong> Blending technical rigor with high visual style—every deliverable treated as a showcase piece.</li>
-</ul>
-</details>
+<p>
+  Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere. Zero non-manifold geometry, zero technical debt, and flawless visual presentation across every build.
+</p>
 </td>
 </tr>
 </table>
