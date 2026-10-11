@@ -62,7 +62,6 @@
   <b>◆ [ SPEC 01 ]</b> &nbsp; <strong>SOFTWARE ENGINEER // CROSS-PLATFORM</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Flutter &amp; Dart</em> &nbsp;•&nbsp; <code>Mobile &amp; Desktop Architecture</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<br/>
 <p>
   Engineering clean, modular, and reactive cross-platform applications across mobile and desktop platforms utilizing <strong>Flutter &amp; Dart</strong>. Focused on clean architecture, reactive state management, decoupled business logic, and fluid 60fps UI performance.
 </p>
