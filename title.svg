@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 100" width="850" height="100">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&amp;family=Share+Tech+Mono&amp;display=swap');
+      .glow-text {
+        font-family: 'Cinzel', serif;
+        font-weight: 900;
+        font-size: 34px;
+        letter-spacing: 5px;
+        fill: #FFFFFF;
+        text-shadow: 0 0 10px rgba(216, 0, 39, 0.8), 0 0 20px rgba(216, 0, 39, 0.5);
+      }
+      .sub-text {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 13px;
+        letter-spacing: 6px;
+        fill: #D80027;
+      }
+      .bracket {
+        fill: #D80027;
+        font-family: 'Cinzel', serif;
+        font-weight: 700;
+        font-size: 36px;
+      }
+    </style>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#D80027" />
+    </linearGradient>
+    <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Accent lines -->
+  <line x1="120" y1="18" x2="730" y2="18" stroke="#D80027" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="8,6" />
+  <line x1="200" y1="84" x2="650" y2="84" stroke="#D80027" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="8,6" />
+
+  <!-- Center Title -->
+  <g filter="url(#crimsonGlow)">
+    <text x="50%" y="54" text-anchor="middle" class="glow-text">
+      OMAR SAMI NIYAZI AL-MAQTARI
+    </text>
+  </g>
+
+  <!-- Subtitle HUD -->
+  <text x="50%" y="78" text-anchor="middle" class="sub-text">
+    [ SSS ] AUREUSBLAZE // DEVIL TRIGGER ACTIVATED
+  </text>
+</svg>
