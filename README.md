@@ -28,7 +28,7 @@
 ---
 
 <!-- BLOCK 1: HUD STATUS -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
@@ -49,7 +49,7 @@
 <br/>
 
 <!-- BLOCK 2: ABOUT THE HUNTER -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
@@ -91,7 +91,7 @@
 <br/>
 
 <!-- BLOCK 3: ARSENAL & WEAPON LOADOUT -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
@@ -150,7 +150,7 @@
 <br/>
 
 <!-- BLOCK 4: HARD-SURFACE VAULT & MISSIONS -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
@@ -193,7 +193,7 @@
 <br/>
 
 <!-- BLOCK 5: COMBAT STATISTICS -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
@@ -223,7 +223,7 @@
 <br/>
 
 <!-- BLOCK 6: TRANSMISSION FREQUENCIES -->
-<table width="100%">
+<table width="96%" align="center">
 <tr>
 <td>
 
