@@ -62,31 +62,24 @@
   Engineering clean, modular, and reactive cross-platform applications across mobile and desktop utilizing <strong>Flutter &amp; Dart</strong>.
 </p>
 
-<br/>
-
 <p>
   <strong>Hard-Surface 3D Artist</strong><br/>
   Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in <strong>Blender</strong>. Authoring realistic, weathered PBR texture sets in <strong>Adobe Substance 3D Painter</strong>.
 </p>
-
-<br/>
 
 <p>
   <strong>Game Developer</strong><br/>
   Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in <strong>Unity</strong> and <strong>Godot</strong>.
 </p>
 
-<br/>
-
 <p>
   <strong>UI/UX Lecturer</strong><br/>
   Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in <strong>Figma</strong>.
 </p>
 
-<br/>
-
-<p align="center">
-  <em>Combat Philosophy: "Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere."</em>
+<p>
+  <strong>Combat Philosophy</strong><br/>
+  Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere.
 </p>
 
 <br/>
@@ -146,9 +139,9 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 </p>
 
-<br/>
-
 </div>
+
+<br/>
 
 </td>
 </tr>
@@ -177,9 +170,7 @@
     <a href="https://www.artstation.com/omarsami">👉 View ArtStation Gallery</a>
   </p>
 
-  <br/>
-  <hr style="border: 0; border-top: 1px dashed rgba(216, 0, 39, 0.4); width: 80%;" />
-  <br/>
+  <hr style="border: 0; border-top: 1px dashed rgba(216, 0, 39, 0.4); width: 80%; margin: 16px 0;" />
 
   <p>
     <img src="https://img.shields.io/badge/GAME_DEV-INTERACTIVE_PROJECTS-B30006?style=for-the-badge&logo=unity&logoColor=white" alt="Interactive Projects" />
@@ -191,9 +182,9 @@
     <em>Check out the pinned repositories below!</em>
   </p>
 
-  <br/>
-
 </div>
+
+<br/>
 
 </td>
 </tr>
@@ -216,21 +207,17 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" width="495" alt="AureusBlaze GitHub Stats" />
   </p>
 
-  <br/>
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureusBlaze&layout=compact&title_color=D80027&text_color=E2E8F0&bg_color=0B0C10&border_color=B30006&hide_border=false" width="495" alt="Top Languages" />
   </p>
-
-  <br/>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=AureusBlaze&theme=dark&background=0B0C10&border=B30006&stroke=D80027&ring=D80027&fire=D80027&currStreakLabel=D80027" width="495" alt="GitHub Streak" />
   </p>
 
-  <br/>
-
 </div>
+
+<br/>
 
 </td>
 </tr>
@@ -261,9 +248,9 @@
     <sub>⚡ <em>"Jackpot!"</em> ⚡</sub>
   </p>
 
-  <br/>
-
 </div>
+
+<br/>
 
 </td>
 </tr>
