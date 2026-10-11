@@ -25,7 +25,12 @@
 
 ---
 
-### 🩸 DEVIL HUNTER STATUS // HUD
+<!-- BLOCK 1: HUD STATUS -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_hud.svg" width="100%" />
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -37,9 +42,20 @@
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+</td>
+</tr>
+</table>
 
-### ⚡ ABOUT THE HUNTER
+<br/>
+
+<!-- BLOCK 2: ABOUT THE HUNTER -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_about.svg" width="100%" />
+
+<br/>
 
 - 📱 **Software Engineer**: Engineering clean, responsive, cross-platform mobile and desktop applications using **Flutter & Dart**.
 - 🗡️ **Hard-Surface 3D Artist**: Modeling optimized, **game-ready assets, weapons, props, and mechanical components** with clean topology and UV unwrapping in **Blender**, textured with realistic PBR workflows in **Substance 3D Painter**.
@@ -47,11 +63,22 @@
 - 👨‍🏫 **UI/UX Lecturer**: Teaching user-centered design paradigms, design systems, and rapid interactive prototyping in **Figma**.
 - ⚔️ **Combat Philosophy**: *"Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere."*
 
----
+</td>
+</tr>
+</table>
 
-### 🗡️ ARSENAL & DEVIL ARMS // TECH STACK
+<br/>
+
+<!-- BLOCK 3: ARSENAL & DEVIL ARMS -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_arsenal.svg" width="100%" />
 
 <div align="center">
+
+<br/>
 
 #### ⚔️ Devil Arms // Engines & Frameworks
 <p>
@@ -87,9 +114,20 @@
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### 🎨 HARD-SURFACE VAULT & MISSION SHOWCASE
+<br/>
+
+<!-- BLOCK 4: HARD-SURFACE VAULT & MISSIONS -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_vault.svg" width="100%" />
+
+<br/>
 
 <table align="center" width="100%">
   <tr>
@@ -110,11 +148,22 @@
   </tr>
 </table>
 
----
+</td>
+</tr>
+</table>
 
-### 📊 COMBAT STATISTICS // GITHUB METRICS
+<br/>
+
+<!-- BLOCK 5: COMBAT STATISTICS -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_stats.svg" width="100%" />
 
 <div align="center">
+
+  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" alt="AureusBlaze GitHub Stats" height="175" />
   
@@ -126,11 +175,22 @@
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### 📡 TRANSMISSION FREQUENCIES // CONNECT
+<br/>
+
+<!-- BLOCK 6: TRANSMISSION FREQUENCIES -->
+<table width="100%">
+<tr>
+<td>
+
+<img src="./header_connect.svg" width="100%" />
 
 <div align="center">
+
+  <br/>
 
   <a href="https://www.artstation.com/omarsami"><img src="https://img.shields.io/badge/ArtStation-omarsami-D80027?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/></a>
   <a href="mailto:Omar.Almaqtari2003@gmail.com"><img src="https://img.shields.io/badge/Email-Omar.Almaqtari2003%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=D80027" alt="Email"/></a>
@@ -143,3 +203,7 @@
 <div align="center">
   <sub>⚡ <em>"Jackpot!"</em> ⚡</sub>
 </div>
+
+</td>
+</tr>
+</table>
