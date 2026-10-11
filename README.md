@@ -164,7 +164,8 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 01 ]</b> &nbsp;│&nbsp; <strong>WORKSHOP INSTRUCTOR: GRAPHIC DESIGN</strong> &nbsp;│&nbsp; <em>Saba University</em> &nbsp;│&nbsp; <code>May 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+  <b>◆ [ CONTRACT 01 ]</b> &nbsp; <strong>WORKSHOP INSTRUCTOR: GRAPHIC DESIGN</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Saba University</em> &nbsp;•&nbsp; <code>May 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 
 <br/>
@@ -193,7 +194,8 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 02 ]</b> &nbsp;│&nbsp; <strong>GAME DEV INSTRUCTOR &amp; TECHNICAL SUPERVISOR</strong> &nbsp;│&nbsp; <em>Leapat &amp; Hadhramout Foundation</em> &nbsp;│&nbsp; <code>Jan 2026 – Mar 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+  <b>◆ [ CONTRACT 02 ]</b> &nbsp; <strong>GAME DEV INSTRUCTOR &amp; TECHNICAL SUPERVISOR</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Leapat (Hadhramout Foundation)</em> &nbsp;•&nbsp; <code>Jan 2026 – Mar 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 
 <br/>
@@ -223,7 +225,8 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 03 ]</b> &nbsp;│&nbsp; <strong>LEAD 3D ARTIST</strong> &nbsp;│&nbsp; <em>Nerdmagic Studios</em> &nbsp;│&nbsp; <code>Aug 2025 – Jan 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+  <b>◆ [ CONTRACT 03 ]</b> &nbsp; <strong>LEAD 3D ARTIST</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Nerdmagic Studios</em> &nbsp;•&nbsp; <code>Aug 2025 – Jan 2026</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 
 <br/>
@@ -252,7 +255,8 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 04 ]</b> &nbsp;│&nbsp; <strong>UNIVERSITY LECTURER: GAME DESIGN</strong> &nbsp;│&nbsp; <em>Knowledge and Modern Sciences University</em> &nbsp;│&nbsp; <code>2024 – 2025</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+  <b>◆ [ CONTRACT 04 ]</b> &nbsp; <strong>UNIVERSITY LECTURER: GAME DESIGN</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Knowledge &amp; Modern Sciences University</em> &nbsp;•&nbsp; <code>2024 – 2025</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 
 <br/>
@@ -283,7 +287,8 @@
 <td>
 <details>
 <summary>
-  <b>◆ [ CONTRACT 05 ]</b> &nbsp;│&nbsp; <strong>ASSISTANT LECTURER: GAME DEV &amp; 3D MODELING</strong> &nbsp;│&nbsp; <em>Twintech University</em> &nbsp;│&nbsp; <code>Dec 2023 – Jan 2025</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+  <b>◆ [ CONTRACT 05 ]</b> &nbsp; <strong>ASSISTANT LECTURER: GAME DEV &amp; 3D MODELING</strong><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<em>Twintech University</em> &nbsp;•&nbsp; <code>Dec 2023 – Jan 2025</code> &nbsp;•&nbsp; <kbd>MISSION BRIEF ▼</kbd>
 </summary>
 
 <br/>
