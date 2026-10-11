@@ -10,7 +10,7 @@
 
   <!-- DYNAMIC ANIMATED TYPING SUBTITLE (CINZEL FONT) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D80027&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%26+Flutter+Developer;Hard-Surface+3D+Artist+%E2%A7%81+Game-Ready+Assets;Game+Developer+%E2%A7%81+Building+with+Unity+%26+Godot;UI%2FUX+Lecturer+%E2%A7%81+Figma+Design+Systems;Devils+Never+Cry.++Let's+Rock%2C+Baby!" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D80027&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%26+Flutter+Developer;Hard-Surface+3D+Artist+%E2%A7%81+Game-Ready+Assets;Game+Developer+%E2%A7%81+Building+with+Unity+%26+Godot;UI%2FUX+Lecturer+%E2%A7%81+Figma+Design+Systems;Jackpot!" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Email-Contact_Me-121214?style=for-the-badge&logo=gmail&logoColor=D80027" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/Style_Rank-SSS-FFB800?style=for-the-badge&logo=target&logoColor=000000" alt="Style Rank SSS" />
-    <img src="https://img.shields.io/badge/Devil_Trigger-ACTIVE-9B0000?style=for-the-badge&logo=powershell&logoColor=white" alt="Devil Trigger Active" />
+    <img src="https://img.shields.io/badge/Devil_Hunter-ACTIVE-9B0000?style=for-the-badge&logo=powershell&logoColor=white" alt="Devil Hunter Active" />
   </p>
 
 </div>
@@ -151,5 +151,5 @@
 <br/>
 
 <div align="center">
-  <sub>⚡ <em>"Though a name may also be a burden... Let's rock, baby!"</em> ⚡</sub>
+  <sub>⚡ <em>"Jackpot!"</em> ⚡</sub>
 </div>
