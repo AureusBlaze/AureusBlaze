@@ -57,11 +57,37 @@
 
 <br/>
 
-- 📱 **Software Engineer**: Engineering clean, responsive, cross-platform mobile and desktop applications using **Flutter & Dart**.
-- 🗡️ **Hard-Surface 3D Artist**: Modeling optimized, **game-ready assets, weapons, props, and mechanical components** with clean topology and UV unwrapping in **Blender**, textured with realistic PBR workflows in **Substance 3D Painter**.
-- 🎮 **Game Developer**: Actively building and experimenting with gameplay mechanics, physics controllers, and interactive prototypes in **Unity** and **Godot**.
-- 👨‍🏫 **UI/UX Lecturer**: Teaching user-centered design paradigms, design systems, and rapid interactive prototyping in **Figma**.
-- ⚔️ **Combat Philosophy**: *"Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere."*
+<p>
+  <strong>Software Engineer</strong><br/>
+  Engineering clean, modular, and reactive cross-platform applications across mobile and desktop utilizing <strong>Flutter & Dart</strong>.
+</p>
+
+<br/>
+
+<p>
+  <strong>Hard-Surface 3D Artist</strong><br/>
+  Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in <strong>Blender</strong>. Authoring realistic, weathered PBR texture sets in <strong>Adobe Substance 3D Painter</strong>.
+</p>
+
+<br/>
+
+<p>
+  <strong>Game Developer</strong><br/>
+  Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in <strong>Unity</strong> and <strong>Godot</strong>.
+</p>
+
+<br/>
+
+<p>
+  <strong>UI/UX Lecturer</strong><br/>
+  Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in <strong>Figma</strong>.
+</p>
+
+<br/>
+
+<p>
+  <em>Combat Philosophy: "Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere."</em>
+</p>
 
 </td>
 </tr>
@@ -69,7 +95,7 @@
 
 <br/>
 
-<!-- BLOCK 3: ARSENAL & DEVIL ARMS -->
+<!-- BLOCK 3: ARSENAL & WEAPON LOADOUT -->
 <table width="100%">
 <tr>
 <td>
@@ -80,14 +106,16 @@
 
 <br/>
 
-#### ⚔️ Devil Arms // Engines & Frameworks
+<p><strong>Devil Arms // Engines & Frameworks</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </p>
 
-#### 🔫 Ebony & Ivory // Core Languages
+<br/>
+
+<p><strong>Ebony & Ivory // Core Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -96,14 +124,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-#### 🔮 Sparda Relics // Hard-Surface 3D & UI/UX
+<br/>
+
+<p><strong>Sparda Relics // Hard-Surface 3D & UI/UX</strong></p>
 <p>
   <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/Blender-Hard--Surface-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
   <img src="https://img.shields.io/badge/Substance_Painter-PBR_Textures-06B6D4?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=white" alt="Substance Painter"/>
   <img src="https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-#### ⚙️ Nico's Workshop // Developer Tools
+<br/>
+
+<p><strong>Nico's Workshop // Developer Tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -129,24 +161,31 @@
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/ARTSTATION-EXPLORE_3D_VAULT-D80027?style=for-the-badge&logo=artstation&logoColor=white" width="100%" /></a>
-      <br/><br/>
-      <strong>🗡️ Game-Ready Hard-Surface Assets</strong>
-      <p>Optimized low-poly topology, clean UV unwrapping, and realistic PBR texturing for game engines. Showcasing mechanical models and props.</p>
-      <a href="https://www.artstation.com/omarsami">👉 View ArtStation Gallery</a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/GAME_DEV-INTERACTIVE_PROJECTS-B30006?style=for-the-badge&logo=unity&logoColor=white" width="100%" />
-      <br/><br/>
-      <strong>🎮 Gameplay Mechanics & Systems</strong>
-      <p>Action-oriented gameplay mechanics, character state machines, and real-time interactive systems in Godot and Unity.</p>
-      <em>Check out the pinned repositories below!</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <p>
+    <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/ARTSTATION-EXPLORE_3D_VAULT-D80027?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Vault" /></a>
+  </p>
+  <p>
+    <strong>Game-Ready Hard-Surface Assets</strong><br/>
+    Low-poly optimized topology, clean UV unwrapping, and realistic PBR texturing for game engines. Showcasing mechanical models and props.
+    <br/>
+    <a href="https://www.artstation.com/omarsami">👉 View ArtStation Gallery</a>
+  </p>
+
+  <hr style="border: 0; border-top: 1px dashed rgba(216, 0, 39, 0.4); width: 80%;" />
+
+  <p>
+    <img src="https://img.shields.io/badge/GAME_DEV-INTERACTIVE_PROJECTS-B30006?style=for-the-badge&logo=unity&logoColor=white" alt="Interactive Projects" />
+  </p>
+  <p>
+    <strong>Gameplay Mechanics & Prototypes</strong><br/>
+    Action-oriented gameplay mechanics, character state machines, and real-time interactive prototypes in Godot and Unity.
+    <br/>
+    <em>Check out the pinned repositories below!</em>
+  </p>
+
+</div>
 
 </td>
 </tr>
