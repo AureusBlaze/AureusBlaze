@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 50" width="850" height="50">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+      .header-title { font-family: 'Cinzel', serif; font-weight: 700; font-size: 18px; letter-spacing: 4px; fill: #FFFFFF; }
+      .hud-tag { font-family: 'Share Tech Mono', monospace; font-size: 11px; letter-spacing: 2px; fill: #D80027; }
+    </style>
+    <linearGradient id="glassBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#180A0E" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#0E0E14" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#140608" stop-opacity="0.95" />
+    </linearGradient>
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D80027" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#D80027" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="topHighlight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="846" height="46" rx="8" fill="url(#glassBg)" stroke="url(#glassBorder)" stroke-width="1.2" />
+  <path d="M 10 3 L 840 3" stroke="url(#topHighlight)" stroke-width="1.2" stroke-linecap="round" />
+  <!-- Corner Brackets -->
+  <path d="M 11 18 L 11 10 L 19 10" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 839 18 L 839 10 L 831 10" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 11 32 L 11 40 L 19 40" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 839 32 L 839 40 L 831 40" fill="none" stroke="#D80027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Vector Diamond HUD Marker -->
+  <polygon points="29,18 36,25 29,32 22,25" fill="#D80027" />
+  <polygon points="29,20 34,25 29,30 24,25" fill="#FFFFFF" fill-opacity="0.6" />
+  <text x="48" y="31" class="header-title">PREVIOUS CONTRACTS // SERVICE RECORD</text>
+  <text x="820" y="30" text-anchor="end" class="hud-tag">// LOG: CONTRACTS_VERIFIED</text>
+</svg>
