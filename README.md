@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/banner.jpg" alt="Omar Sami - Devil May Cry Dante Dev Banner" width="100%" />
+  <img src="./banner.jpg" alt="Omar Sami - Devil May Cry Dante Dev Banner" width="100%" />
 
   <br/><br/>
 
