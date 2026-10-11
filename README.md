@@ -149,7 +149,171 @@
 
 <br/>
 
-<!-- BLOCK 4: HARD-SURFACE VAULT & MISSIONS -->
+<!-- BLOCK 4: PREVIOUS CONTRACTS // SERVICE RECORD -->
+<table width="96%" align="center">
+<tr>
+<td>
+
+<img src="./header_contracts.svg" width="100%" />
+
+<br/><br/>
+
+<!-- CONTRACT 01 -->
+<table width="100%">
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 01 ]</b> &nbsp;│&nbsp; <strong>WORKSHOP INSTRUCTOR: GRAPHIC DESIGN</strong> &nbsp;│&nbsp; <em>Saba University</em> &nbsp;│&nbsp; <code>May 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+
+<br/>
+
+<blockquote>
+  <strong>Organization:</strong> Saba University &nbsp;•&nbsp; <strong>Contract:</strong> 5-Day Intensive Workshop (May 2026)<br/>
+  <strong>Discipline Loadout:</strong> Game Art Pipeline • 2D/3D Asset Creation • Lighting &amp; Cinematics • Design Psychology
+</blockquote>
+
+<ul>
+  <li>Led an intensive 5-day workshop guiding students through the complete game art pipeline, from graphic design psychology and conceptual asset creation to final presentation.</li>
+  <li>Mentored students in translating conceptual design principles into functional game-ready 3D assets, topology considerations, and UV workflows.</li>
+  <li>Taught real-time lighting setup, composition theory, and cinematic presentation workflows for interactive media.</li>
+</ul>
+
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CONTRACT 02 -->
+<table width="100%">
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 02 ]</b> &nbsp;│&nbsp; <strong>GAME DEV INSTRUCTOR &amp; TECHNICAL SUPERVISOR</strong> &nbsp;│&nbsp; <em>Leapat &amp; Hadhramout Foundation</em> &nbsp;│&nbsp; <code>Jan 2026 – Mar 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+
+<br/>
+
+<blockquote>
+  <strong>Organization:</strong> Leapat (in partnership with Hadhramout Foundation)<br/>
+  <strong>Role &amp; Duration:</strong> Game Development Instructor &amp; Technical Supervisor &nbsp;•&nbsp; Jan 2026 – Mar 2026<br/>
+  <strong>Discipline Loadout:</strong> Unity Engine • C# Mechanics • Performance Profiling • Agile Production • Technical Mentorship
+</blockquote>
+
+<ul>
+  <li>Directed an intensive game development initiative, commencing with a focused 1-week Unity and C# bootcamp and transitioning into a 3-month hands-on practical supervision phase.</li>
+  <li>Mentored trainees through complex technical troubleshooting, gameplay programming, scene architecture, and collaborative studio standards.</li>
+  <li>Conducted comprehensive milestone and sprint reviews, ensuring student prototypes adhered to strict real-time performance budgets, frame rates, and agile delivery methodologies.</li>
+</ul>
+
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CONTRACT 03 -->
+<table width="100%">
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 03 ]</b> &nbsp;│&nbsp; <strong>LEAD 3D ARTIST</strong> &nbsp;│&nbsp; <em>Nerdmagic Studios</em> &nbsp;│&nbsp; <code>Aug 2025 – Jan 2026</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+
+<br/>
+
+<blockquote>
+  <strong>Studio:</strong> Nerdmagic Studios &nbsp;•&nbsp; <strong>Role:</strong> Lead 3D Artist &nbsp;•&nbsp; <strong>Duration:</strong> Aug 2025 – Jan 2026<br/>
+  <strong>Discipline Loadout:</strong> Hard-Surface 3D • Blender • Adobe Substance 3D Painter • Unity • Modular Environments • UV Optimization
+</blockquote>
+
+<ul>
+  <li>Directed the overall visual style for a newly founded studio, establishing strict artistic guidelines, visual fidelity benchmarks, and seamless cross-discipline collaboration.</li>
+  <li>Managed the complete end-to-end 3D pipeline—from hard-surface modeling, low-poly topology, and high-to-low baking to PBR texturing, rigging, and in-engine optimization.</li>
+  <li>Architected and implemented modular environment kits and efficient UV mapping pipelines, drastically accelerating the studio's level design throughput.</li>
+</ul>
+
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CONTRACT 04 -->
+<table width="100%">
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 04 ]</b> &nbsp;│&nbsp; <strong>UNIVERSITY LECTURER: GAME DESIGN</strong> &nbsp;│&nbsp; <em>Knowledge and Modern Sciences University</em> &nbsp;│&nbsp; <code>2024 – 2025</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+
+<br/>
+
+<blockquote>
+  <strong>Institution:</strong> Knowledge and Modern Sciences University (KMSU) &nbsp;•&nbsp; Multimedia Department<br/>
+  <strong>Courses:</strong> Game-Design-1 &amp; Game-Design-2 &nbsp;•&nbsp; <strong>Timeline:</strong> 2024 – 2025<br/>
+  <strong>Discipline Loadout:</strong> Unity Game Engine • Game Architecture • Mechanics Design • Capstone Studio Simulation
+</blockquote>
+
+<ul>
+  <li>Lectured two core university courses (Game-Design-1 and Game-Design-2) in the Multimedia Department, educating students in game development fundamentals.</li>
+  <li>Instructed game mechanics programming, state machine logic, physics controllers, and scene architecture using the <strong>Unity Game Engine</strong>.</li>
+  <li>Designed practical assignments, examinations, and milestone projects that guided students to iterate from concepts to fully playable games.</li>
+  <li>Evaluated comprehensive capstone projects, simulating professional studio feedback loops to prepare students for commercial game development pipelines.</li>
+</ul>
+
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- CONTRACT 05 -->
+<table width="100%">
+<tr>
+<td>
+<details>
+<summary>
+  <b>◆ [ CONTRACT 05 ]</b> &nbsp;│&nbsp; <strong>ASSISTANT LECTURER: GAME DEV &amp; 3D MODELING</strong> &nbsp;│&nbsp; <em>Twintech University</em> &nbsp;│&nbsp; <code>Dec 2023 – Jan 2025</code> &nbsp; <kbd>MISSION BRIEF ▼</kbd>
+</summary>
+
+<br/>
+
+<blockquote>
+  <strong>Institution:</strong> International University of Science Twintech (IUST)<br/>
+  <strong>Role:</strong> Assistant Lecturer: Game Development &amp; 3D Modeling &nbsp;•&nbsp; <strong>Timeline:</strong> Dec 2023 – Jan 2025<br/>
+  <strong>Discipline Loadout:</strong> Blender 3D • Unity Engine • C# Gameplay Scripting • Physics Scripting • Real-Time Pipelines
+</blockquote>
+
+<ul>
+  <li>Delivered comprehensive university coursework across both <strong>Blender 3D</strong> (hard-surface modeling, UV unwrapping, texturing, animation pipelines) and the <strong>Unity Engine</strong>.</li>
+  <li>Taught C# gameplay mechanics, physics controllers, collision systems, camera scripting, and runtime performance optimization.</li>
+  <li>Guided students through real-time asset export pipelines from Blender into Unity, emphasizing topology cleanliness and engine performance.</li>
+</ul>
+
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- BLOCK 5: HARD-SURFACE VAULT & MISSIONS -->
 <table width="96%" align="center">
 <tr>
 <td>
@@ -192,7 +356,7 @@
 
 <br/>
 
-<!-- BLOCK 5: COMBAT STATISTICS -->
+<!-- BLOCK 6: COMBAT STATISTICS -->
 <table width="96%" align="center">
 <tr>
 <td>
@@ -222,7 +386,7 @@
 
 <br/>
 
-<!-- BLOCK 6: TRANSMISSION FREQUENCIES -->
+<!-- BLOCK 7: TRANSMISSION FREQUENCIES -->
 <table width="96%" align="center">
 <tr>
 <td>
