@@ -3,7 +3,7 @@
   <!-- HERO BANNER -->
   <img src="./banner.jpg" alt="Omar Sami - Devil May Cry Dante Dev Banner" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- STYLIZED TITLE HEADER -->
   <img src="./title.svg" alt="Omar Sami Niyazi Al-maqtari" width="100%" />
@@ -13,7 +13,7 @@
   <!-- DYNAMIC ANIMATED TYPING SUBTITLE (CINZEL FONT) -->
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D80027&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%26+Flutter+Developer;Hard-Surface+3D+Artist+%E2%A7%81+Game-Ready+Assets;Game+Developer+%E2%A7%81+Building+with+Unity+%26+Godot;UI%2FUX+Lecturer+%E2%A7%81+Figma+Design+Systems;Jackpot!" alt="Typing Subtitle" />
 
-  <br/>
+  <br/><br/>
 
   <!-- QUICK ACTION BADGES -->
   <p>
@@ -34,7 +34,7 @@
 
 <img src="./header_hud.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="./status_card.svg" width="495" alt="Hunter Status Specifications" />
@@ -55,31 +55,38 @@
 
 <img src="./header_about.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <p>
   <strong>Software Engineer</strong><br/>
   Engineering clean, modular, and reactive cross-platform applications across mobile and desktop utilizing <strong>Flutter &amp; Dart</strong>.
 </p>
 
+<br/>
+
 <p>
   <strong>Hard-Surface 3D Artist</strong><br/>
   Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in <strong>Blender</strong>. Authoring realistic, weathered PBR texture sets in <strong>Adobe Substance 3D Painter</strong>.
 </p>
+
+<br/>
 
 <p>
   <strong>Game Developer</strong><br/>
   Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in <strong>Unity</strong> and <strong>Godot</strong>.
 </p>
 
+<br/>
+
 <p>
   <strong>UI/UX Lecturer</strong><br/>
   Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in <strong>Figma</strong>.
 </p>
 
-<p>
-  <strong>Combat Philosophy</strong><br/>
-  Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere.
+<br/>
+
+<p align="center">
+  <em>Combat Philosophy: "Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere."</em>
 </p>
 
 <br/>
@@ -97,7 +104,7 @@
 
 <img src="./header_arsenal.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -139,9 +146,9 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 </p>
 
-</div>
-
 <br/>
+
+</div>
 
 </td>
 </tr>
@@ -156,7 +163,7 @@
 
 <img src="./header_vault.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -170,7 +177,9 @@
     <a href="https://www.artstation.com/omarsami">👉 View ArtStation Gallery</a>
   </p>
 
-  <hr style="border: 0; border-top: 1px dashed rgba(216, 0, 39, 0.4); width: 80%; margin: 16px 0;" />
+  <br/>
+  <hr style="border: 0; border-top: 1px dashed rgba(216, 0, 39, 0.4); width: 80%;" />
+  <br/>
 
   <p>
     <img src="https://img.shields.io/badge/GAME_DEV-INTERACTIVE_PROJECTS-B30006?style=for-the-badge&logo=unity&logoColor=white" alt="Interactive Projects" />
@@ -182,9 +191,9 @@
     <em>Check out the pinned repositories below!</em>
   </p>
 
-</div>
+  <br/>
 
-<br/>
+</div>
 
 </td>
 </tr>
@@ -199,25 +208,21 @@
 
 <img src="./header_stats.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" width="495" alt="AureusBlaze GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AureusBlaze&show_icons=true&title_color=D80027&text_color=E2E8F0&icon_color=FFB800&bg_color=0B0C10&border_color=B30006&hide_border=false" height="180" alt="AureusBlaze GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureusBlaze&layout=compact&title_color=D80027&text_color=E2E8F0&bg_color=0B0C10&border_color=B30006&hide_border=false" height="180" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureusBlaze&layout=compact&title_color=D80027&text_color=E2E8F0&bg_color=0B0C10&border_color=B30006&hide_border=false" width="495" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=AureusBlaze&theme=dark&background=0B0C10&border=B30006&stroke=D80027&ring=D80027&fire=D80027&currStreakLabel=D80027" width="495" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AureusBlaze&theme=dark&background=0B0C10&border=B30006&stroke=D80027&ring=D80027&fire=D80027&currStreakLabel=D80027" height="180" alt="GitHub Streak" />
   </p>
 
 </div>
-
-<br/>
 
 </td>
 </tr>
@@ -232,7 +237,7 @@
 
 <img src="./header_connect.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -248,9 +253,9 @@
     <sub>⚡ <em>"Jackpot!"</em> ⚡</sub>
   </p>
 
-</div>
+  <br/>
 
-<br/>
+</div>
 
 </td>
 </tr>
