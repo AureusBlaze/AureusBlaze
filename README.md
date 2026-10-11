@@ -9,20 +9,14 @@
   <img src="./title.svg" alt="Omar Sami Niyazi Al-maqtari" width="100%" />
 
   <!-- DYNAMIC ANIMATED TYPING SUBTITLE (CINZEL FONT) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D80027&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%26+Flutter+Developer;Hard-Surface+3D+Artist+%E2%A7%81+Game-Ready+Assets;Game+Developer+%E2%A7%81+Building+with+Unity+%26+Godot;UI%2FUX+Lecturer+%E2%A7%81+Figma+Design+Systems;Jackpot!" alt="Typing Subtitle" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D80027&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%26+Flutter+Developer;Hard-Surface+3D+Artist+%E2%A7%81+Game-Ready+Assets;Game+Developer+%E2%A7%81+Building+with+Unity+%26+Godot;UI%2FUX+Lecturer+%E2%A7%81+Figma+Design+Systems;Jackpot!" alt="Typing Subtitle" />
 
   <br/><br/>
 
   <!-- QUICK ACTION BADGES -->
   <p>
-    <a href="https://www.artstation.com/omarsami" target="_blank">
-      <img src="https://img.shields.io/badge/ArtStation-3D_Portfolio-D80027?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Portfolio" />
-    </a>
-    <a href="mailto:Omar.Almaqtari2003@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-121214?style=for-the-badge&logo=gmail&logoColor=D80027" alt="Email" />
-    </a>
+    <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/ArtStation-3D_Portfolio-D80027?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Portfolio" /></a>
+    <a href="mailto:Omar.Almaqtari2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-121214?style=for-the-badge&logo=gmail&logoColor=D80027" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Style_Rank-SSS-FFB800?style=for-the-badge&logo=target&logoColor=000000" alt="Style Rank SSS" />
     <img src="https://img.shields.io/badge/Devil_Hunter-ACTIVE-9B0000?style=for-the-badge&logo=powershell&logoColor=white" alt="Devil Hunter Active" />
   </p>
@@ -77,9 +71,7 @@
 
 #### 🔮 Sparda Relics // Hard-Surface 3D & UI/UX
 <p>
-  <a href="https://www.artstation.com/omarsami" target="_blank">
-    <img src="https://img.shields.io/badge/Blender-Hard--Surface-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  </a>
+  <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/Blender-Hard--Surface-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
   <img src="https://img.shields.io/badge/Substance_Painter-PBR_Textures-06B6D4?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=white" alt="Substance Painter"/>
   <img src="https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
@@ -102,9 +94,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://www.artstation.com/omarsami" target="_blank">
-        <img src="https://img.shields.io/badge/ARTSTATION-EXPLORE_3D_VAULT-D80027?style=for-the-badge&logo=artstation&logoColor=white" width="100%" />
-      </a>
+      <a href="https://www.artstation.com/omarsami" target="_blank"><img src="https://img.shields.io/badge/ARTSTATION-EXPLORE_3D_VAULT-D80027?style=for-the-badge&logo=artstation&logoColor=white" width="100%" /></a>
       <br/><br/>
       <strong>🗡️ Game-Ready Hard-Surface Assets</strong>
       <p>Optimized low-poly topology, clean UV unwrapping, and realistic PBR texturing for game engines. Showcasing mechanical models and props.</p>
