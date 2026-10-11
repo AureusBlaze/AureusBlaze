@@ -74,7 +74,6 @@
   <b>◆ [ SPEC 02 ]</b> &nbsp; <strong>HARD-SURFACE 3D ARTIST // GAME-READY</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Blender &amp; Substance Painter</em> &nbsp;•&nbsp; <code>PBR Textures &amp; UVs</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<br/>
 <p>
   Modeling optimized, game-ready assets, weapons, props, and mechanical components with clean edge flow, low-poly topology, and precise UV unwrapping in <strong>Blender</strong>. Authoring realistic, weathered PBR texture sets in <strong>Adobe Substance 3D Painter</strong> with clean baking and maximum texel density.
 </p>
@@ -87,7 +86,6 @@
   <b>◆ [ SPEC 03 ]</b> &nbsp; <strong>GAME DEVELOPER // REAL-TIME SYSTEMS</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Unity &amp; Godot</em> &nbsp;•&nbsp; <code>Mechanics &amp; Physics Controllers</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<br/>
 <p>
   Actively designing and experimenting with real-time gameplay mechanics, character physics controllers, state machines, and interactive indie prototypes in <strong>Unity</strong> and <strong>Godot</strong>. Focused on responsive controls, component architecture, and engine profiling.
 </p>
@@ -100,7 +98,6 @@
   <b>◆ [ SPEC 04 ]</b> &nbsp; <strong>UI/UX LECTURER // PRODUCT DESIGN</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Figma &amp; Design Systems</em> &nbsp;•&nbsp; <code>Heuristics &amp; Mentorship</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<br/>
 <p>
   Teaching human-centered design heuristics, design systems, usability workflows, and rapid interactive prototyping in <strong>Figma</strong>. Mentoring aspiring designers and multimedia students through practical workflows, visual hierarchy principles, and iterative prototype testing.
 </p>
@@ -113,7 +110,6 @@
   <b>◆ [ HUNTER CODE ]</b> &nbsp; <strong>COMBAT PHILOSOPHY // STYLE RANK</strong><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;<em>Smokin' Sexy Style</em> &nbsp;•&nbsp; <code>Clean Topology &amp; Clean Code</code> &nbsp;•&nbsp; <kbd>CODE SPEC DETAILS</kbd>
 </p>
-<br/>
 <p>
   Clean topology in 3D, clean architecture in code, and Smokin' Sexy Style execution everywhere. Zero non-manifold geometry, zero technical debt, and flawless visual presentation across every build.
 </p>
