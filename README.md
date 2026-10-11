@@ -6,7 +6,7 @@
   <br/><br/>
 
   <!-- STYLIZED SVG TITLE -->
-  <img src="./assets/title.svg" alt="Omar Sami Niyazi Al-maqtari" width="100%" />
+  <img src="./title.svg" alt="Omar Sami Niyazi Al-maqtari" width="100%" />
 
   <!-- DYNAMIC ANIMATED TYPING SUBTITLE (CINZEL FONT) -->
   <a href="https://git.io/typing-svg">
