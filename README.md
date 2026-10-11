@@ -34,7 +34,7 @@
 
 <img src="./header_hud.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="./status_card.svg" width="495" alt="Hunter Status Specifications" />
@@ -55,7 +55,7 @@
 
 <img src="./header_about.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <p>
   <strong>Software Engineer</strong><br/>
@@ -97,7 +97,7 @@
 
 <img src="./header_arsenal.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -156,7 +156,7 @@
 
 <img src="./header_vault.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -199,7 +199,7 @@
 
 <img src="./header_stats.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -232,7 +232,7 @@
 
 <img src="./header_connect.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
